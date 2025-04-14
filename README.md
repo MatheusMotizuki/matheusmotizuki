@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Me chamo Matheus<br><br>- 🔭 Trabalho como desenvolvedor de software<br>- 📚 Gosto de aprender C/C++<br>- ⚡ No meu tempo livre eu assisto filmes e estudo.</p>
+<p align="left">Me chamo Matheus<br><br>- 🔭 Trabalho como desenvolvedor de software<br>- 📚 Gosto de aprender golang e C/C++<br>- ⚡ No meu tempo livre eu assisto filmes e estudo.</p>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
+<h3 align="left">🛠 Linguagens | Languages </h3>
 
 ###
 
