@@ -1,56 +1,30 @@
 <h1 align="center">Hi there 👋</h1>
 
-###
+I'm a software engineer who’s passionate about performance and optimization. I specialize in building fast, scalable systems and improving existing ones to run more efficiently. I enjoy digging into bottlenecks and finding smart, practical ways to solve tough problems.
 
-<p align="center">
-  <a href="mailto:matheusmotizuki@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mail:tomatheusmotizuki@gmail.com"/></a> 
+## 💡 About Me
 
-  <a href="https://www.linkedin.com/in/matheus-motizuki/" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/matheus-motizuki"/></a>
-</p>  
+- 🧑‍💻 Software Engineer
+- 💚 Go and C++ (with some love for Python & Rust)
+- 🚀 Always learning, building, and tinkering with new ideas
 
-## pt-br
+## 📬 Connect with Me
 
-###
+<p>
+  <a href="https://www.linkedin.com/in/MatheusMotizuki" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:matheusmotizuki@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://matheusmotizuki.github.io" target="_blank">
+    <img alt="Website" src="https://img.shields.io/badge/-Portfolio-24292F?style=flat-square&logo=githubpages&logoColor=white"/>
+  </a>
+</p>
 
-<h3 align="left">👩‍💻  Sobre mim</h3>
+## 🛠️ Languages
 
-###
-
-<p align="left">Me chamo Matheus<br><br>- 🔭 Trabalho como desenvolvedor de software<br>- 📚 Gosto de aprender golang e C/C++<br>- ⚡ No meu tempo livre eu assisto filmes e estudo.</p>
-
-###
-
-## en-us
-
-###
-
-<h3 align="left">👩‍💻  About me</h3>
-
-###
-
-<p align="left">My name is Matheus<br><br>- 🔭 I work as a Software developer<br>- 📚 I like to learn C/C++ and golang<br>- ⚡ In my free time I study and watch movies.</p>
-
-###
-
-<h3 align="left">🛠 Linguagens | Languages </h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-</div>
-
-###
+![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
