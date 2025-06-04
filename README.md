@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-I'm a software engineer who’s passionate about performance and optimization. I specialize in building fast, scalable systems and improving existing ones to run more efficiently. I enjoy digging into bottlenecks and finding smart, practical ways to solve tough problems.
+I'm a software engineer who’s passionate about performance and optimization. I specialize in building fast, scalable systems and improving existing ones to run work efficiently. I enjoy debug slow codes to find smart, practical ways to solve tough problems.
 
 ## 💡 About Me
 
