@@ -1,23 +1,20 @@
-<h1 align="center">Hi there 👋</h1>
+<div align="center">
+  <h1>Hi there 👋</h1>
+  <p><em>Software Engineer</em></p>
+</div>
 
-I'm a software engineer who’s passionate about performance and optimization. I specialize in building fast, scalable systems and improving existing ones to run work efficiently. I enjoy debug slow codes to find smart, practical ways to solve tough problems.
+I'm passionate about performance and optimization. I specialize in building fast, scalable systems and improving existing ones to run work efficiently. I enjoy debug slow codes to find smart, practical ways to solve tough problems.
 
 ## 💡 About Me
 
 - 🧑‍💻 Software Engineer
 - 💚 Go and C++
-- 🚀 Always learning, building, and tinkering with new ideas
+- 🚀 Always learning, building, and prototyping  with new ideas
 
-## 📬 Useful links
+## 📬 Connect or Contact
 
-<p>
-  <a href="https://www.linkedin.com/in/MatheusMotizuki" target="_blank">
-  My Linkedin
-  </a>
-  <a href="https://matheusmotizuki.github.io" target="_blank">
-    My Portfolio
-  </a>
-</p>
+- 🔗 [LinkedIn](https://www.linkedin.com/in/MatheusMotizuki)
+- 🌐 [Portfolio](https://matheusmotizuki.github.io)
 
 ## 🛠️ Languages
 
