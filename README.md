@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**MatheusMotizuki/matheusmotizuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><samp>
+  Greetings, O wayfarer!
+  <br><br>
+  I'm Matheus Motizuki, a 21yo Software Engineer.
+  <br>
+  Passionate about performance and optimization
+  <br><br>
+    <b>About</b>:
+    <br>
+    ▫ Stack &rarr; <i>Go • C++ • C</i>
+    <br>
+    ▫ Work @ PSTG-Tech
+    <br>
+    ▫ Always learning
+    <br><br>
+  <b>Connect</b>:
+  <br>
+    ▫ <a href="https://www.linkedin.com/in/matheus-motizuki/" target="_blank">LinkedIn</a>
+    <br>
+    ▫ <a href="mailto:matheusmotizuki@gmail.com">Email</a>
+</samp></p>
