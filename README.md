@@ -1,7 +1,7 @@
 <p><samp>
   Greetings, O wayfarer!
   <br><br>
-  I'm Matheus Motizuki, a 21yo Software Engineer.
+  I'm Matheus Motizuki [望月], a 21yo Software Engineer.
   <br>
   Passionate about performance and optimization
   <br><br>
