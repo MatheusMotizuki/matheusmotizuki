@@ -11,7 +11,7 @@
     <br>
     ▫ Work @ PSTG-Tech
     <br><br>
-  <b>Connect</b>:
-  <br>
-    ▫ <a href="https://www.linkedin.com/in/matheus-motizuki/" target="_blank">LinkedIn</a>
+    Check my website
+  <a href="www.motizuki.dev">motizuki.dev</a>
+  :)
 </samp></p>
