@@ -12,6 +12,6 @@
     ▫ Work @ PSTG-Tech
     <br><br>
     Check my website
-  <a href="www.motizuki.dev">motizuki.dev</a>
+  <a href="https://www.motizuki.dev">motizuki.dev</a>
   :)
 </samp></p>
